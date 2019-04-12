@@ -12,6 +12,7 @@
 		216384DC225FB46500743D10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 216384DA225FB46500743D10 /* Main.storyboard */; };
 		216384DE225FB46600743D10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 216384DD225FB46600743D10 /* Assets.xcassets */; };
 		216384E1225FB46600743D10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 216384DF225FB46600743D10 /* LaunchScreen.storyboard */; };
+		216384E9225FC1EB00743D10 /* furo_ducky.png in Resources */ = {isa = PBXBuildFile; fileRef = 216384E8225FC1EB00743D10 /* furo_ducky.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		216384DD225FB46600743D10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		216384E0225FB46600743D10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		216384E2225FB46600743D10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		216384E8225FC1EB00743D10 /* furo_ducky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = furo_ducky.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				216384DA225FB46500743D10 /* Main.storyboard */,
 				216384DD225FB46600743D10 /* Assets.xcassets */,
 				216384DF225FB46600743D10 /* LaunchScreen.storyboard */,
+				216384E8225FC1EB00743D10 /* furo_ducky.png */,
 				216384E2225FB46600743D10 /* Info.plist */,
 			);
 			path = PhotoMaster;
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				216384E9225FC1EB00743D10 /* furo_ducky.png in Resources */,
 				216384E1225FB46600743D10 /* LaunchScreen.storyboard in Resources */,
 				216384DE225FB46600743D10 /* Assets.xcassets in Resources */,
 				216384DC225FB46500743D10 /* Main.storyboard in Resources */,
